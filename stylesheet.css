@@ -24,14 +24,18 @@ top: 41px;
 }
 
 .topnav ul {
-  list-style: none;
-  display: flex;
-  justify-content: space-around;
-  width: 18%;
-  font-family: 'Fira Sans', sans-serif;
-  float: right;
-  padding: 45px;
-  margin-right: 30px;
+list-style: none;
+display: flex;
+justify-content: space-around;
+width: 18%;
+font-family: 'Fira Sans', sans-serif;
+float: right;
+padding: 45px;
+margin-right: 30px;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
   
   
 }
@@ -168,7 +172,7 @@ width: 569px;
 height: 88px;
 left: 126px;
 top: 209px;
-font-family: Fira Sans;
+font-family: 'Fira Sans';
 font-style: normal;
 font-weight: bold;
 font-size: 60px;
@@ -180,14 +184,14 @@ color: #151515;
 
 .p1eg {
   position: absolute;
-  width: 474px;
-  height: 137px;
-  left: 80px;
-  top: 387px;
-  font-family: 'Fira Sans';
+  width: 420px;
+  height: 46px;
+  left: 126px;
+  top: 364px;
+  font-family: Fira Sans;
   font-style: normal;
   font-weight: normal;
-  font-size: 18px;
+  font-size: 36px;
   line-height: 28px;
   color: #222222;
   opacity: 0.7;
@@ -228,9 +232,9 @@ color: #151515;
   letter-spacing: 4px;
   text-transform: uppercase;
   position: absolute;
-  left: 80px;
+  left: 126px;
   right: 0%;
-  top: 590px;
+  top: 490px;
 }
 
 .triangles {
@@ -241,7 +245,7 @@ left: 788px;
 top: -400px;
 }
 
-.pic2 {
+/* .pic2 {
   position: absolute;
   left: 615px;
   top: 142px;
@@ -251,7 +255,7 @@ top: -400px;
   position: absolute;
   left: 80px;
   top: 1100px;
-}
+} */
 
 .h2eg {
   position: absolute;
