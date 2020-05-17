@@ -1,0 +1,235 @@
+
+.h1eg {
+position: absolute;
+width: 169px;
+height: 68px;
+left: 126px;
+top: 164px;
+
+/* Hero */
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 70px;
+/* or 117% */
+
+letter-spacing: -1px;
+
+color: #151515;
+
+    }
+.p1dv{
+    position: absolute;
+    width: 474px;
+    height: 166px;
+    left: 126px;
+    top: 266px;
+    
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+    
+    
+    /* Black */
+    
+    color: #222222;
+    opacity: 0.7;
+      }
+
+.kiosk_blend img{
+background-blend-mode: multiply;
+position: absolute;
+left: 651px;
+margin-top: 3px;
+z-index: -5;
+}
+
+.triangles_left{
+position: absolute;
+width: 243px;
+height: 1001.87px;
+left: 0px;
+top: 607px;
+}
+
+.dash1{
+position: absolute;
+left: 550px;
+top: 971px;
+width: 105px;
+height: 11px;
+background: #4737FF;
+}
+
+.h11{
+position: absolute;
+width: 585px;
+height: 45px;
+left: 696px;
+top: 951px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 50px;
+/* or 125% */
+
+letter-spacing: -1px;
+
+/* Black */
+
+color: #222222;
+}
+
+.p11{
+position: absolute;
+width: 445px;
+height: 254px;
+left: 696px;
+top: 1027px;
+
+/* Paragrapgh */
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+
+/* Black */
+
+color: #222222;
+opacity: 0.7;
+}
+
+.h12{
+position: absolute;
+width: 353.39px;
+height: 4.32px;
+left: 207px;
+top: 1757px;
+
+/* Big Title */
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 50px;
+/* or 125% */
+
+letter-spacing: -1px;
+
+/* Black */
+
+color: #222222;
+    }
+
+    .footer2 {
+        position: absolute;
+        width: 100%;
+        height: 100px;
+        top: 7840px;
+        background: #515151;
+      }
+
+      .logo3 {
+        position: absolute;
+        width: 60px;
+        height: 30px;
+        left: 80px;
+        top: 7880px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 30px;
+        color: #FFFFFF;
+        text-decoration: none;
+      }
+      
+.p12{
+position: absolute;
+width: 445px;
+height: 254px;
+left: 207px;
+top: 1826px;
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+color: #222222;
+opacity: 0.7;
+}
+
+.dash2{
+position: absolute;
+left: 70px;
+top: 1777px;
+width: 105px;
+height: 11px;
+background: #4737FF;
+}
+
+.h13{
+position: absolute;
+width: 353.39px;
+height: 4.32px;
+left: 317px;
+top: 2236px;
+
+/* Big Title */
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 50px;
+/* or 125% */
+
+letter-spacing: -1px;
+
+/* Black */
+
+color: #222222;
+}
+
+.p13{
+    position: absolute;
+width: 455px;
+height: 113px;
+left: 317px;
+top: 2305px;
+
+/* Paragrapgh */
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+
+/* Black */
+
+color: #222222;
+opacity: 0.7;
+}
+
+.dash3{
+    position: absolute;
+    left: 180px;
+top: 2256px;
+    width: 105px;
+    height: 11px;
+    background: #4737FF;
+    }
