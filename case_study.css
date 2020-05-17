@@ -985,3 +985,34 @@ width: 105px;
 height: 11px;
 background: #4737FF;
 }
+
+.roadz_web{
+position: absolute;
+width: 939px;
+height: 996px;
+left: 162px;
+top: 14000px;
+}
+
+.triangles_right{
+position: absolute;
+width: 243px;
+height: 1001.87px;
+left: 1105px;
+top: 14033px;
+}
+
+.h28{
+position: absolute;
+width: 146px;
+height: 34px;
+left: 239px;
+top: 15183px;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 50px;
+letter-spacing: -1px;
+color: #222222;
+}
