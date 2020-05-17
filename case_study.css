@@ -812,3 +812,113 @@ height: 1001.87px;
 left: 0px;
 top: 10707px;
 }
+
+.h24{
+position: absolute;
+width: 256px;
+height: 44px;
+left: 355px;
+top: 10929px;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 50px;
+letter-spacing: -1px;
+color: #222222;
+}
+
+.dash14{
+position: absolute;
+left: 205px;
+top: 10950px;
+width: 105px;
+height: 11px;
+background: #4737FF;
+}
+
+.roadz_size{
+position: absolute;
+width: 311px;
+height: 568px;
+left: 315px;
+top: 11004px;
+}
+
+.roadz_minsize{
+position: absolute;
+width: 355px;
+height: 94.42px;
+left: 651px;
+top: 11455px;
+}
+
+.p25{
+position: absolute;
+width: 540px;
+height: 104px;
+left: 736px;
+top: 11100px;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+color: #222222;
+opacity: 0.7;
+}
+
+.h25{
+position: absolute;
+width: 353px;
+height: 34px;
+left: 243px;
+top: 11736px;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 50px;
+letter-spacing: -1px;
+color: #222222;
+}
+
+.dash15{
+position: absolute;
+left: 105px;
+top: 11756px;
+width: 105px;
+height: 11px;
+background: #4737FF;
+}
+
+.roadz_logo_official{
+position: absolute;
+width: 975px;
+height: 440px;
+left: 78px;
+top: 11850px;
+}
+
+.triangles_right4{
+position: absolute;
+width: 243px;
+height: 1001.87px;
+left: 1105px;
+top: 11450px;
+}
+
+.p26{
+position: absolute;
+width: 540px;
+height: 104px;
+left: 243px;
+top: 12382px;
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+color: #222222;
+opacity: 0.7;
+}
