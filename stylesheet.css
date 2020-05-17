@@ -51,121 +51,6 @@ line-height: 28px;
   text-decoration: underline;
 }
 
-.container {
-  position: absolute;
-  margin-top: 1px;
-  left: 49.00%;
-  right: 45.44%;
-  top: 6.11%;
-  bottom: 90.63%;
-  width: 100px;
-  height: 50px;
-}
-.container .search {
-  position: absolute;
-  margin: auto;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  width: 35px;
-  height: 35px;
-  background: #4737FF;
-  border-radius: 50%;
-  transition: all 1s;
-  z-index: 4;
-  box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.4);
-  box-shadow: 0 0 25px 0 #4737FF;
-}
-.container .search:hover {
-  cursor: pointer;
-}
-.container .search::before {
-  content: "";
-  position: absolute;
-  margin: auto;
-  top: 10px;
-  right: 0;
-  bottom: -6px;
-  left: 13px;
-  width: 12px;
-  height: 2px;
-  background: white;
-  transform: rotate(45deg);
-  transition: all .5s;
-}
-.container .search::after {
-  content: "";
-  position: absolute;
-  margin: auto;
-  top: -5px;
-  right: 0;
-  bottom: 0;
-  left: -5px;
-  width: 15px;
-  height: 15px;
-  border-radius: 50%;
-  border: 2px solid white;
-  transition: all .5s;
-}
-.container input {
-  font-family: 'Fira Sans', sans-serif;
-  position: absolute;
-  margin: auto;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  width: 50px;
-  height: 50px;
-  outline: none;
-  border: none;
-  background: #4737FF;
-  color: white;
-  text-shadow: 0 0 10px #4737FF;
-  padding: 0 50px 0 20px;
-  border-radius: 30px;
-  box-shadow: 0 0 25px 0 #4737FF, 0 20px 25px 0 rgba(0, 0, 0, 0.2);
-  transition: all 1s;
-  opacity: 0;
-  z-index: 5;
-  font-weight: bolder;
-  letter-spacing: 0.1em;
-}
-.container input:hover {
-  cursor: pointer;
-}
-.container input:focus {
-  width: 300px;
-  opacity: 1;
-  cursor: text;
-}
-.container input:focus ~ .search {
-  right: -440px;
-  background: #151515;
-  z-index: 6;
-}
-.container input:focus ~ .search::before {
-  top: 0;
-  left: 0;
-  width: 25px;
-}
-.container input:focus ~ .search::after {
-  top: 0;
-  left: 0;
-  width: 25px;
-  height: 2px;
-  border: none;
-  background: white;
-  border-radius: 0%;
-  transform: rotate(-45deg);
-}
-.container input::placeholder {
-  color: white;
-  opacity: 0.5;
-  font-weight: bolder;
-}
-
 .h1eg {
 position: absolute;
 width: 569px;
@@ -362,9 +247,7 @@ top: -400px;
     float:none;
     margin-left:210px;
 }
-.container{
-  display: none;
-}
+
   .h1eg {
   font-size: 40px;
   left:40px;
@@ -449,3 +332,33 @@ top: -400px;
   margin-left: 650px;
   margin-top: 100px;
 }
+#myRoadz{
+position: absolute;
+width: 170px;
+height: 170px;
+left: 200px;
+top: 1128px;
+}
+.nobhill{
+position: absolute;
+width: 170px;
+height: 170px;
+left: 571px;
+top: 1128px;
+}
+.sparkbeat{
+position: absolute;
+width: 170px;
+height: 170px;
+left: 982px;
+top: 1128px;
+}
+.chmav{
+position: absolute;
+width: 170px;
+height: 170px;
+left: 200px;
+top: 1415px;
+
+}
+
