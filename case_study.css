@@ -961,3 +961,27 @@ height: 1001.87px;
 left: 0px;
 top: 12657px;
 }
+
+.h27{
+position: absolute;
+width: 353px;
+height: 34px;
+left: 179px;
+top: 13844px;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 50px;
+letter-spacing: -1px;
+color: #222222;
+}
+
+.dash17{
+position: absolute;
+left: 45px;
+top: 13862px;
+width: 105px;
+height: 11px;
+background: #4737FF;
+}
