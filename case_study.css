@@ -137,7 +137,7 @@ color: #222222;
 position: absolute;
 width: 100%;
 height: 100px;
-top: 7840px;
+top: 15840px;
 background: #515151;
 }
 
@@ -519,4 +519,296 @@ top: 6287px;
 width: 105px;
 height: 11px;
 background: #4737FF;
+}
+
+.h18{
+position: absolute;
+width: 353.39px;
+height: 4.32px;
+left: 285px;
+top: 6577px;
+font-family: Fira Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 50px;
+letter-spacing: -1px;
+color: #222222;
+}
+
+.p21{
+position: absolute;
+width: 353.39px;
+height: 4.32px;
+left: 285px;
+top: 6652px;
+font-family: Fira Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 50px;
+letter-spacing: -1px;
+color: #222222;
+}
+
+.dash8{
+position: absolute;
+left: 125px;
+top: 6597px;
+width: 105px;
+height: 11px;
+background: #4737FF;
+}
+
+.sketch1{
+position: absolute;
+width: 565px;
+height: 247px;
+left: 79px;
+top: 6800px;
+
+}
+
+.sketch2{
+position: absolute;
+width: 639px;
+height: 220px;
+left: 692px;
+top: 6790px;
+}
+
+.typefaces{
+position: absolute;
+width: 1098px;
+height: 254px;
+left: 147px;
+top: 7412px;
+}
+
+.h19{
+position: absolute;
+width: 354px;
+height: 4px;
+left: 290px;
+top: 7214px;
+font-family: 'Fira Sans';
+font-style: bold;
+font-weight: 600;
+font-size: 36px;
+line-height: 50px;
+letter-spacing: -1px;
+color: #222222;
+}
+
+.dash9{
+position: absolute;
+left: 125px;
+top: 7234px;
+width: 105px;
+height: 11px;
+background: #4737FF;
+}
+
+.h20{
+position: absolute;
+width: 202.3px;
+height: 4.32px;
+left: 281px;
+top: 7845px;
+font-family: Fira Sans;
+font-style: bold;
+font-weight: 600;
+font-size: 36px;
+line-height: 50px;
+letter-spacing: -1px;
+color: #222222;
+}
+
+.dash10{
+position: absolute;
+left: 130px;
+top: 7865px;
+width: 105px;
+height: 11px;
+background: #4737FF;
+}
+
+.wireframe{
+position: absolute;
+width: 1088px;
+height: 612px;
+left: 0px;
+top: 7922px;
+}
+
+.triangles_right3{
+position: absolute;
+width: 243px;
+height: 1001.87px;
+left: 1105px;
+top: 7654px;
+}
+
+.p22{
+position: absolute;
+width: 540px;
+height: 104px;
+left: 281px;
+top: 8495px;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+color: #222222;
+opacity: 0.7;
+}
+
+.h21{
+position: absolute;
+width: 228px;
+height: 47px;
+left: 281px;
+top: 8748px;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 50px;
+letter-spacing: -1px;
+color: #222222;
+}
+
+.dash11{
+position: absolute;
+left: 130px;
+top: 8767px;
+width: 105px;
+height: 11px;
+background: #4737FF;
+}
+.zmud{
+position: absolute;
+width: 66px;
+height: 289px;
+left: 186px;
+top: 8900px;
+}
+
+.zmud2{
+position: absolute;
+width: 124px;
+height: 334.33px;
+left: 329px;
+top: 8900px;
+}
+
+.roadz_logo{
+position: absolute;
+width: 412px;
+height: 276px;
+left: 690px;
+top: 8900px;
+}
+
+.p23{
+position: absolute;
+width: 540px;
+height: 104px;
+left: 501px;
+top: 9300px;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+color: #222222;
+opacity: 0.7;
+}
+
+.h22{
+position: absolute;
+width: 353.39px;
+height: 4.32px;
+left: 284px;
+top: 9500px;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 50px;
+letter-spacing: -1px;
+color: #222222;
+}
+
+.dash12{
+position: absolute;
+left: 130px;
+top: 9520px;
+width: 105px;
+height: 11px;
+background: #4737FF;
+}
+
+.p24{
+position: absolute;
+width: 359px;
+height: 49px;
+left: 680px;
+top: 9909px;
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+color: #222222;
+opacity: 0.7;
+}
+
+.roadz_clear{
+position: absolute;
+width: 534px;
+height: 410px;
+left: 76px;
+top: 9600px;
+}
+
+.h23{
+position: absolute;
+width: 353.39px;
+height: 4.32px;
+left: 243px;
+top: 10104px;
+font-family: Fira Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 50px;
+letter-spacing: -1px;
+color: #222222;
+}
+
+.dash13{
+position: absolute;
+left: 100px;
+top: 10125px;
+width: 105px;
+height: 11px;
+background: #4737FF;
+}
+
+.roadz_x{
+position: absolute;
+width: 1291px;
+height: 586px;
+left: 32px;
+top: 10206px;
+}
+
+.triangles_left3{
+position: absolute;
+width: 243px;
+height: 1001.87px;
+left: 0px;
+top: 10707px;
 }
