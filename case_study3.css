@@ -185,7 +185,7 @@
     }
     .scheme1{
     position: absolute;
-    left: 423px;
+    left: 340px;
     top: 1072px;
     }
     
@@ -244,7 +244,7 @@
     
     .data2{
     position: absolute;
-    left: 395px;
+    left: 300px;
     top: 2679px;
     }
     
@@ -262,10 +262,10 @@
     
     .p15{
     position: absolute;
-    width: 439px;
+    width: 575px;
     height: 167px;
-    left: 595px;
-    top: 5674px;
+    left: 395px;
+    top: 6774px;
     font-family: Fira Sans;
     font-style: normal;
     font-weight: normal;
@@ -277,8 +277,8 @@
     
     .data4{
     position: absolute;
-    left: 150px;
-    top: 4979.51px;
+    left: 30px;
+    top: 4679.51px;
     }
     
     .data5{
@@ -352,7 +352,7 @@
     width: 540px;
     height: 90px;
     left: 236px;
-    top: 4523px;
+    top: 4223px;
     font-family: 'Fira Sans';
     font-style: normal;
     font-weight: normal;
@@ -364,10 +364,10 @@
     
     .h16{
     position: absolute;
-    width: 353.39px;
+    width: 450.39px;
     height: 4.32px;
     left: 285px;
-    top: 4817px;
+    top: 4517px;
     font-family: 'Fira Sans';
     font-style: normal;
     font-weight: 600;
@@ -434,7 +434,7 @@
     .dash6{
     position: absolute;
     left: 135px;
-    top: 4835px;
+    top: 4535px;
     width: 105px;
     height: 11px;
     background: #4737FF;
