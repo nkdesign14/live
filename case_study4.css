@@ -149,7 +149,7 @@
     width: 455px;
     height: 113px;
     left: 317px;
-    top: 2085px;
+    top: 2005px;
     
     /* Paragrapgh */
     
@@ -215,10 +215,10 @@
     
     .p14{
     position: absolute;
-    width: 475px;
+    width: 575px;
     height: 113px;
-    left: 695px;
-    top: 3553px;
+    left: 317px;
+    top: 2953px;
     font-family: Fira Sans;
     font-style: normal;
     font-weight: normal;
@@ -245,8 +245,8 @@
     
     .data2{
     position: absolute;
-    left: 300px;
-    top: 2679px;
+    left: 225px;
+    top: 2179px;
     }
     
     .triangles_left2{
@@ -257,16 +257,16 @@
     }
     .data3{
     position: absolute;
-    left: 233px;
-    top: 3933px;
+    left: 225px;
+    top: 3133px;
     }
     
     .p15{
     position: absolute;
     width: 575px;
     height: 167px;
-    left: 395px;
-    top: 6774px;
+    left: 317px;
+    top: 4930px;
     font-family: Fira Sans;
     font-style: normal;
     font-weight: normal;
@@ -278,8 +278,8 @@
     
     .data4{
     position: absolute;
-    left: 30px;
-    top: 4679.51px;
+    left: 225px;
+    top: 4150px;
     }
     
     .data5{
@@ -311,6 +311,7 @@
     height: 1001.87px;
     left: 1105px;
     top: 4304px;
+    z-index: -5;
     }
     
     .data6{
@@ -352,8 +353,8 @@
     position: absolute;
     width: 540px;
     height: 90px;
-    left: 236px;
-    top: 4223px;
+    left: 317px;
+    top: 3970px;
     font-family: 'Fira Sans';
     font-style: normal;
     font-weight: normal;
@@ -517,7 +518,7 @@
     width: 354px;
     height: 4px;
     left: 290px;
-    top: 7214px;
+    top: 5214px;
     font-family: 'Fira Sans';
     font-style: bold;
     font-weight: 600;
@@ -530,7 +531,7 @@
     .dash9{
     position: absolute;
     left: 125px;
-    top: 7234px;
+    top: 5234px;
     width: 105px;
     height: 11px;
     background: #4737FF;
@@ -985,14 +986,14 @@
     .concept_video{
     position: absolute;
     left: 172px;
-    top: 17354px;
+    top: 5354px;
     }
     
     .footer2 {
     position: absolute;
     width: 100%;
     height: 100px;
-    top: 10140px;
+    top: 5940px;
     background: #515151;
     }
     
@@ -1001,7 +1002,7 @@
     width: 60px;
     height: 30px;
     left: 80px;
-    top: 10180px;
+    top: 5980px;
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
