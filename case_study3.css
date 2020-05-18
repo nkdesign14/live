@@ -214,7 +214,7 @@
     
     .p14{
     position: absolute;
-    width: 455px;
+    width: 475px;
     height: 113px;
     left: 695px;
     top: 3553px;
@@ -508,7 +508,7 @@
     .typefaces{
     position: absolute;
     left: 147px;
-    top: 7312px;
+    top: 7112px;
     }
     
     .h19{
@@ -561,8 +561,7 @@
     
     .wireframe{
     position: absolute;
-    left: 50px;
-    top: 8200px;
+    top: 7900px;
     }
     
     .triangles_right3{
@@ -571,6 +570,7 @@
     height: 1001.87px;
     left: 1105px;
     top: 7654px;
+    z-index: -5;
     }
     
     .p22{
@@ -629,8 +629,7 @@
     
     .roadz_logo{
     position: absolute;
-    left: 100px;
-    top: 9100px;
+    top: 8850px;
     }
     
     .p23{
@@ -992,7 +991,7 @@
     position: absolute;
     width: 100%;
     height: 100px;
-    top: 15040px;
+    top: 10140px;
     background: #515151;
     }
     
@@ -1001,7 +1000,7 @@
     width: 60px;
     height: 30px;
     left: 80px;
-    top: 15080px;
+    top: 10180px;
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
